@@ -8,6 +8,7 @@ box-sizing: border-box;
 
 body {
 font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+background-color: #019DDA;
 }
 
 .container {
@@ -18,10 +19,15 @@ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 
 .left-column {
     width: 40%;
+    height: 400px;
     float: left;
     padding: 40px;
     background-color: #0251AB;
+    background-image: url(../img/hils.png);
     color: #fff;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
 
 .main-title {
@@ -44,6 +50,6 @@ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     width: 60%;
     float: left;
     padding: 60px;
-    background-color: blue;
+    background-color: #fff;
 }
 
