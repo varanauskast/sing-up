@@ -19,7 +19,6 @@ background-color: #019DDA;
 
 .left-column {
     width: 40%;
-    height: 400px;
     float: left;
     padding: 40px;
     background-color: #0251AB;
@@ -27,7 +26,6 @@ background-color: #019DDA;
     color: #fff;
     background-repeat: no-repeat;
     background-position: center;
-    background-size: cover;
 }
 
 .main-title {
@@ -35,8 +33,6 @@ background-color: #019DDA;
     margin-bottom: 250px;
     font-size: 40px;
     font-weight: normal;
-    color: #fff;
-
 }
 
 .bottom-links {
