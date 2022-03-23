@@ -1,0 +1,18 @@
+.form {
+    width: 100%;
+
+.form > .form-row {
+    width: 100%;
+}
+.form > .form-row {
+    width: 100%;  
+}
+
+.form > form-row > .label {
+    width: 100%;  
+}
+
+.form > form-row > .input {
+    width: 100%;
+}
+
