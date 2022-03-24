@@ -26,12 +26,16 @@
     border-bottom: 2px solid rgb(187, 184, 184);
     padding-top: 5px;
     padding-bottom: 5px;
+    outline: 0px;
+}
+.form > .form-row > .input:focus-visible {
+    outline: 1px solid red;
 }
 
 .form > span {
     line-height: 40px;
-    margin-left: 10px;
-    margin-right: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 .form a {

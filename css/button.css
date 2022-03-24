@@ -6,8 +6,8 @@
     padding-right: 30px;
     border-radius: 18px ;
     border-width: 1px;
-    border-color: rgb(1, 1, 29);
-    background-color: rgb(25, 25, 250);
+    background: rgb(2,0,36);
+    background: linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(71,121,9,1) 0%, rgba(0,212,255,1) 100%);
     color: #fff;
     cursor: pointer;
 }

@@ -19,6 +19,7 @@ body {
 }
 
 .container {
+    display: inline-block;
     width: 800px;
     margin-top: 100px;
     margin-left: calc(50% - 400px);
@@ -46,6 +47,11 @@ body {
 }
 
 .bottom-links {
+    position: absolute;
+    bottom: 20px;
+    left: 40px;
+    right: 40px;
+
 }
 
 .bottom-links > .link {
@@ -58,8 +64,18 @@ body {
     padding: 60px;
     background-color: #fff;;
     background-size: cover;
+    position: relative;
 }
 
 .close {
+    width: 60px;
+    height: 60px;
+    font-size: 30px;
+    text-align: center;
+    line-height: 54px;
+    position: absolute;
+    top: 0;
+    right: 0px;
+    cursor: pointer;
 }
 
